@@ -1,0 +1,6 @@
+services:
+  lade:
+    build:
+      context: .
+    image: lade
+    container_name: lade
